@@ -1,29 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Neelam%20Naga%20Satya%20Sri%20Prasad&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Transforming%20ideas%20into%20autonomous%20systems&descAlignY=61&descAlign=62" alt="Header Banner" />
+  <video src="c_f_b_b_ca_cbmp_.mp4" width="600" autoplay loop muted playsinline></video>
+  
+  <br/>
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005A9C&height=150&section=header&text=Neelam%20Naga%20Satya%20Sri%20Prasad&fontSize=50&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
   
   <br/>
 
-  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Distributed+Backend+Architect;Competitive+Programmer;Building+Autonomous+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005A9C&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Karma+Yogi+in+Code;Distributed+Backend+Architect;Building+Digital+Dharma" alt="Typing SVG" />
   </a>
+
+  <p><em>"You have the right to work, but never to the fruit of work." — Bhagavad Gita</em></p>
 </div>
 
 ---
 
-### 🚀 About Me & My Workflows
+### 🦚 About Me & My Digital Dharma
 
-I am a software engineer focused on building **intelligent autonomous agents**, integrating **multimodal LLMs**, and architecting **highly scalable event-driven backends**. I leverage modern AI coding assistants to expedite development and prioritize reproducible, clean system designs.
+Guided by the principles of Karma Yoga, I am a software engineer focused on building **intelligent autonomous agents**, integrating **multimodal LLMs**, and architecting **highly scalable event-driven backends**. Just as the universe is a perfectly orchestrated system, I strive to design software that is efficient, scalable, and harmonious.
 
 - 🔭 **Currently Building:** Production-ready AI systems like J.A.R.V.I.S. (Multimodal autonomous AI).
-- 🌱 **Deep Diving Into:** Advanced vision processing, LLM orchestration, and high-performance microservices.
-- ⚡ **Go-To Stack:** **Java** for core algorithmic logic, combined with scalable DevOps workflows.
+- 🌱 **Deep Diving Into:** "Divine Vision" (Advanced computer vision), LLM orchestration, and omnipresent microservices.
+- ⚡ **Go-To Stack:** **Java** for core algorithmic logic, channeling modern DevOps workflows to manifest ideas into reality.
 - 🎓 **Education:** Pursuing B.Tech in Information Technology (Expected July 2027).
 - 📫 **Location:** Visakhapatnam, India.
 
 ---
 
-### 🛠️ Modern Tech Stack & Skills
+### 🏹 The Divine Arsenal (Tech Stack & Astras)
 
 <div align="center">
   <p><strong>Core Languages & Frameworks</strong></p>
@@ -31,7 +37,7 @@ I am a software engineer focused on building **intelligent autonomous agents**, 
     <img src="https://skillicons.dev/icons?i=java,html,css,react,nodejs,express" alt="Languages & Frameworks" />
   </a>
   
-  <p><strong>DevOps, Architecture & Data</strong></p>
+  <p><strong>DevOps, Architecture & Cosmic Data Flow</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis" alt="DevOps & Databases" />
   </a>
@@ -43,7 +49,7 @@ I am a software engineer focused on building **intelligent autonomous agents**, 
 
 ---
 
-### 🧠 Featured AI & Engineering Workflows
+### 🌌 Cosmic Architecture & AI Leelas (Featured Work)
 
 | Project / Agent | Architecture & Overview | Live Action |
 | :--- | :--- | :--- |
@@ -55,33 +61,30 @@ I am a software engineer focused on building **intelligent autonomous agents**, 
 
 ---
 
-### 🏆 Milestones & Competitive Activity
+### ⚔️ Digital Kurukshetra (Milestones & Competitive Activity)
 
 * 🥇 **1st Place** - Project Space 6.0 Hackathon
 * 🚀 **Participant** - Prajwalan 2K26 National-Level Hackathon
-* ⚔️ **LeetCode:** 1700+ Rating | ⭐ **CodeChef:** 3-Star
+* 🏹 **LeetCode:** 1700+ Rating | ⭐ **CodeChef:** 3-Star Coder
 
 ---
 
-### 📊 Dynamic Live Stats
+### 🪷 Dynamic Live Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
   
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&langs_count=6&theme=nord&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnssprasad97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnssprasad97&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <p><em>Radhe Radhe ✨ Let's build the future of AI together.</em></p>
 </div>
