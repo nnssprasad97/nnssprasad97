@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="c_f_b_b_ca_cbmp_.gif" width="600" alt="Lord Krishna and Radha" />
+  <img src="gif.gif" width="600" alt="Lord Krishna and Radha" />
   
   <br/>
   <br/>
