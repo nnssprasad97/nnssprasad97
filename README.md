@@ -9,8 +9,6 @@
 
 <br><br>
 
-<img src="1777534036804.jpg" alt="Header Banner" />
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Software+Engineer+(AI+%26+Full-Stack);MongoDB+Certified+Developer;Oracle+Certified+Java+Foundations;1700%2B+LeetCode+%7C+3%E2%AD%90+CodeChef;Building+AI+Products+and+Scalable+Systems" alt="Typing SVG" />
