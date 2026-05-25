@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=Naga%20Satya%20Sri%20Prasad%20Neelam&fontSize=38&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+<img src="![Uploading 1777534036804.jpg…]()" alt="Header Banner" />
 
 <br>
 
