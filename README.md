@@ -1,61 +1,122 @@
 <div align="center">
 
-### 👋 Hello, Welcome to my profile!
-### You are <img src="https://komarev.com/ghpvc/?username=nnssprasad97&label=VIEWER&color=blueviolet&style=flat" /> of my profile.
+# Naga Satya Sri Prasad Neelam
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer+(AI+%26+Full-Stack);Building+Intelligent+Scalable+Systems;MongoDB+Certified+%7C+Oracle+Certified;1700%2B+LeetCode+%7C+3%E2%AD%90+CodeChef;IT+Student+%7C+Aditya+College+of+Engineering+%26+Technology" alt="Typing SVG" />
 
 <br>
 
-<img src="gif.gif" width="600" alt="developer gif" />
+<img src="https://komarev.com/ghpvc/?username=nnssprasad97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=NEELAM%20NAGA%20SATYA%20SRI%20PRASAD&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Architect;AI+Agent+Developer;Java+Backend+Specialist" alt="Typing SVG" />
+<a href="https://github.com/nnssprasad97" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-nnssprasad97-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+</a>
+<a href="https://www.linkedin.com/in/nnssprasad/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-nnssprasad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+</a>
 
 </div>
 
 ---
 
-### 🚀 Engineering Philosophy
-*Guided by the timeless wisdom of Dharma and the precision of modern architecture.*
+## About Me
 
-I am an **Information Technology student** focused on building highly scalable **event-driven architectures** and **autonomous AI agents**. I treat code as a craft, ensuring my systems are performant, containerized, and built to scale.
+I’m **Naga Satya Sri Prasad Neelam**, an aspiring Software Engineer focused on AI, full-stack systems, backend engineering, and scalable product development.
 
-- 🔭 **Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
-- ⚡ **Tech Stack:** Java, Node.js, Docker, Kubernetes, Kafka, Redis.
-- 🎓 **Education:** B.Tech IT | Expected 2027.
+I build projects around:
+- Autonomous AI assistants
+- Intelligent developer platforms
+- Distributed and event-driven systems
+- Practical full-stack applications for students and developers
+
+My current direction combines **AI + backend engineering + product thinking** to build systems that are useful, scalable, and production-oriented.
 
 ---
 
-### 🛠️ The Tech Stack
+## Certifications
+
+- MongoDB Certified Developer, Associate (C100DEV) — **Issued Mar 2026**
+- Oracle Certified Foundations Associate – Java
+- Learning Docker (LinkedIn Learning) — **Issued Dec 2025**
+- HackerRank SQL (Basic)
+- HackerRank SQL (Intermediate)
+
+---
+
+## Highlights
+
+- 44 public repositories
+- 744 contributions in the last year
+- 1700+ LeetCode
+- 3⭐ CodeChef
+- Open to building intelligent scalable systems
+- B.Tech Information Technology — **Expected 2027**
+
+---
+
+## Featured Projects
+
+### Zenith
+**Autonomous AI assistant** built with React.js, Node.js, Python, TypeScript, MongoDB, Docker, LangChain, AWS Bedrock, Claude, Gemini, OpenCV, and Tesseract.
+
+### Lumix
+**AI-powered GitHub repository discovery and student project sharing platform** focused on surfacing useful repositories, AI news, and student-built work.
+
+### AI Micro-Expression Analyser
+A computer vision project focused on reading subtle facial expressions using AI/ML concepts and image processing workflows.
+
+### Other Work
+You can also find repositories covering:
+- LeetCode problem solving
+- Student platforms
+- Full-stack experiments
+- Backend systems
+- Developer tools
+
+---
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,docker,kubernetes,kafka,redis,linux,git,postman" alt="Tech Stack" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,nodejs,react,mongodb,docker,aws,linux,git,postman,redis,kafka,kubernetes" alt="Tech Stack" />
+
 </div>
 
 ---
 
-### 🏗️ Production Systems (Featured)
-| Project | Core Tech | Status |
-| :--- | :--- | :--- |
-| **J.A.R.V.I.S.** | Java, LLM, Computer Vision | 🟢 Active |
-| **Micro-Expression Analyzer** | Python, OpenCV | 🟢 Active |
-| **Event-Driven Order System** | Node.js, Kafka, Redis | 🟢 Active |
+## GitHub Stats
 
----
-
-### 📊 Developer Metrics (Real-Time)
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&langs_count=5&theme=dracula&hide_border=true&border_radius=10"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnssprasad97&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nnssprasad97&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 </div>
 
 ---
 
+## Notable Repositories
+
+- [Zenith](https://github.com/nnssprasad97/zenith)
+- [Lumix](https://github.com/nnssprasad97/lumix)
+- [LeetCode-Grind](https://github.com/nnssprasad97/LeetCode-Grind)
+- [TECH-PATH](https://github.com/nnssprasad97/TECH-PATH)
+- [Geeks-For-Geeks](https://github.com/nnssprasad97/Geeks-For-Geeks)
+
+---
+
+## Connect
+
+- GitHub: [github.com/nnssprasad97](https://github.com/nnssprasad97)
+- LinkedIn: [linkedin.com/in/nnssprasad](https://www.linkedin.com/in/nnssprasad/)
+
+---
+
 <div align="center">
-  <p><code>// Happy Coding</code></p>
+  <sub>Building intelligent systems, useful products, and strong engineering foundations.</sub>
 </div>
