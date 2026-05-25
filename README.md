@@ -1,30 +1,27 @@
 <div align="center">
 
-<!-- Visitor Counter -->
-<a href="https://github.com/nnssprasad97">
-  <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewer&edge_flat=false" alt="Visitor Counter"/>
-</a>
+### 👋 Hello, Welcome to my profile!
+### You are <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&title=viewer&count_bg=%2379C83D&title_bg=%23555555" /> viewer of my profile.
 
-<br><br>
+<br>
 
-<!-- Hero GIF -->
 <img src="gif.gif" width="600" alt="developer gif" />
 
-<br><br>
+<br>
 
-<!-- Name Header -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=NEELAM%20NAGA%20SATYA%20SRI%20PRASAD&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
 
 <br>
 
-<!-- Typing Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Architect;AI+Agent+Developer;Java+Backend+Specialist" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 👋 Hello, Welcome to my profile!
+### 🚀 Engineering Philosophy
+*Guided by the timeless wisdom of Dharma and the precision of modern architecture.*
+
 I am an **Information Technology student** focused on building highly scalable **event-driven architectures** and **autonomous AI agents**. I treat code as a craft, ensuring my systems are performant, containerized, and built to scale.
 
 - 🔭 **Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
@@ -40,7 +37,7 @@ I am an **Information Technology student** focused on building highly scalable *
 
 ---
 
-### 🏗️ Production Systems
+### 🏗️ Production Systems (Featured)
 | Project | Core Tech | Status |
 | :--- | :--- | :--- |
 | **J.A.R.V.I.S.** | Java, LLM, Computer Vision | 🟢 Active |
@@ -49,7 +46,7 @@ I am an **Information Technology student** focused on building highly scalable *
 
 ---
 
-### 📊 Developer Metrics
+### 📊 Developer Metrics (Real-Time)
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&langs_count=5&theme=dracula&hide_border=true&border_radius=10"/>
@@ -59,6 +56,6 @@ I am an **Information Technology student** focused on building highly scalable *
 
 ---
 
-### 📫 Contact
-*   **LinkedIn:** [Your Profile Link]
-*   **Email:** [Your Email Address]
+<div align="center">
+  <p><code>// Happy Coding</code></p>
+</div>
