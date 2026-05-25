@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="![Uploading 1777534036804.jpg…]()" alt="Header Banner" />
+<img src="1777534036804.jpg" alt="Header Banner" />
 
 <br>
 
