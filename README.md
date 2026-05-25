@@ -1,38 +1,46 @@
 <div align="center">
-  <img src="gif.gif" width="600" alt="developer gif" />
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=NEELAM%20NAGA%20SATYA%20SRI%20PRASAD&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
-  
-  <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Architect;AI+Agent+Developer;Java+Backend+Specialist" alt="Typing SVG" />
+<!-- Visitor Counter -->
+<a href="https://github.com/nnssprasad97">
+  <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Counter"/>
+</a>
+
+<br><br>
+
+<!-- Hero GIF -->
+<img src="YOUR_GIF_URL_HERE.gif" width="600" alt="developer gif" />
+
+<br><br>
+
+<!-- Name Header -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=NEELAM%20NAGA%20SATYA%20SRI%20PRASAD&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+
+<br>
+
+<!-- Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Architect;AI+Agent+Developer;Java+Backend+Specialist" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 🚀 Engineering Philosophy
-*Guided by the timeless wisdom of Dharma and the precision of modern architecture.*
+### 👋 Hello, Welcome to my profile!
+I am an **Information Technology student** at Aditya College of Engineering and Technology, driven by the challenge of building high-performance, **event-driven architectures** and **autonomous AI agents**. I view programming as a creative craft where Dharma meets modern system architecture.
 
-I am an **Information Technology student** focused on building highly scalable **event-driven architectures** and **autonomous AI agents**. I treat code as a craft, ensuring my systems are performant, containerized, and built to scale.
-
-- 🔭 **Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
-- ⚡ **Tech Stack:** Java, Node.js, Docker, Kubernetes, Kafka, Redis.
-- 🎓 **Education:** B.Tech IT | Expected 2027.
+- 🔭 **Current Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
+- 🎓 **Academic Milestone:** B.Tech IT | Expected 2027.
+- ⚡ **Philosophy:** Writing clean, scalable code that delivers real-world impact.
 
 ---
 
-### 🛠️ The Tech Stack (Modern Developer View)
-
+### 🛠️ The Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,react,docker,kubernetes,kafka,redis,linux,git,postman" alt="Tech Stack" />
 </div>
 
 ---
 
-### 🏗️ Production Systems (Featured)
-
+### 🏗️ Production Systems
 | Project | Core Tech | Status |
 | :--- | :--- | :--- |
 | **J.A.R.V.I.S.** | Java, LLM, Computer Vision | 🟢 Active |
@@ -41,20 +49,21 @@ I am an **Information Technology student** focused on building highly scalable *
 
 ---
 
-### 📊 Developer Metrics (Real-Time)
-
+### 📊 Developer Metrics
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nnssprasad97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnssprasad97&layout=compact&langs_count=5&theme=dracula&hide_border=true&border_radius=10"/>
-</div>
-
-<br>
-
-<div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnssprasad97&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
+
+### 📫 Let's Connect
+Feel free to reach out for collaborations or technical discussions:
+*   **LinkedIn:** [Your Profile Link Here]
+*   **Email:** [Your Professional Email]
+*   **Portfolio:** [Your Website Link Here]
 
 <div align="center">
   <p><code>// Radhe Radhe & Happy Coding</code></p>
