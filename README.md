@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="c_f_b_b_ca_cbmp_.mp4" width="600" autoplay loop muted playsinline></video>
+  <img src="c_f_b_b_ca_cbmp_.gif" width="600" alt="Lord Krishna and Radha" />
   
   <br/>
   <br/>
