@@ -32,7 +32,7 @@ I’m **Naga Satya Sri Prasad Neelam**, an Information Technology student and as
 
 ## 🏆 Certifications
 
-- MongoDB Certified Developer, Associate (C100DEV) — Issued Mar 2026
+- MongoDB Certified Developer, Associate 
 - Oracle Certified Foundations Associate – Java
 - Oracle Cloud Infrastructure - Ai foundations
 - Many moree .. .
