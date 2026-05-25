@@ -2,7 +2,7 @@
 
 <!-- Visitor Counter -->
 <a href="https://github.com/nnssprasad97">
-  <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Counter"/>
+  <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewer&edge_flat=false" alt="Visitor Counter"/>
 </a>
 
 <br><br>
@@ -25,11 +25,11 @@
 ---
 
 ### 👋 Hello, Welcome to my profile!
-I am an **Information Technology student** at Aditya College of Engineering and Technology, driven by the challenge of building high-performance, **event-driven architectures** and **autonomous AI agents**. I view programming as a creative craft where Dharma meets modern system architecture.
+I am an **Information Technology student** focused on building highly scalable **event-driven architectures** and **autonomous AI agents**. I treat code as a craft, ensuring my systems are performant, containerized, and built to scale.
 
-- 🔭 **Current Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
-- 🎓 **Academic Milestone:** B.Tech IT | Expected 2027.
-- ⚡ **Philosophy:** Writing clean, scalable code that delivers real-world impact.
+- 🔭 **Focus:** Multimodal LLMs, Kafka-based stream processing, and Microservices.
+- ⚡ **Tech Stack:** Java, Node.js, Docker, Kubernetes, Kafka, Redis.
+- 🎓 **Education:** B.Tech IT | Expected 2027.
 
 ---
 
@@ -59,12 +59,6 @@ I am an **Information Technology student** at Aditya College of Engineering and 
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out for collaborations or technical discussions:
-*   **LinkedIn:** [Your Profile Link Here]
-*   **Email:** [Your Professional Email]
-*   **Portfolio:** [Your Website Link Here]
-
-<div align="center">
-  <p><code>// Radhe Radhe & Happy Coding</code></p>
-</div>
+### 📫 Contact
+*   **LinkedIn:** [Your Profile Link]
+*   **Email:** [Your Email Address]
