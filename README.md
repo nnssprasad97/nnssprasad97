@@ -34,9 +34,8 @@ I’m **Naga Satya Sri Prasad Neelam**, an Information Technology student and as
 
 - MongoDB Certified Developer, Associate (C100DEV) — Issued Mar 2026
 - Oracle Certified Foundations Associate – Java
-- Learning Docker (LinkedIn Learning) — Issued Dec 2025
-- HackerRank SQL (Basic)
-- HackerRank SQL (Intermediate)
+- Oracle Cloud Infrastructure - Ai foundations
+- Many moree .. .
 
 ---
 
@@ -74,7 +73,7 @@ I’m **Naga Satya Sri Prasad Neelam**, an Information Technology student and as
 
 - 44 repositories
 - 744 contributions in the last year
-- Featured repositories include **lumix**, **LeetCode-Grind**, **TECH-PATH**, and **Geeks-For-Geeks**
+- Featured repositories include **lumix**, **zenith**, **microexpresiion**, and lot moree.. .
 
 ---
 
