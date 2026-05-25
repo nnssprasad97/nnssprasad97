@@ -8,7 +8,7 @@
 <br><br>
 
 <!-- Hero GIF -->
-<img src="YOUR_GIF_URL_HERE.gif" width="600" alt="developer gif" />
+<img src="gif.gif" width="600" alt="developer gif" />
 
 <br><br>
 
