@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋 Hello, Welcome to my profile!
-### You are <img src="https://hits.seeyouforme.com/api/count/inc/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnssprasad97&title=viewer&count_bg=%2379C83D&title_bg=%23555555" /> viewer of my profile.
+### You are <img src="https://komarev.com/ghpvc/?username=nnssprasad97&label=VIEWER&color=blueviolet&style=flat" /> of my profile.
 
 <br>
 
